@@ -1,0 +1,1 @@
+Batalha naval no python  sem usar classe ou pygames. Projeto conta com arquivos divididos para melhor entendimento, além de conter um arquivo do jogo utilizando tkinter, com interface gráfica e funcional
